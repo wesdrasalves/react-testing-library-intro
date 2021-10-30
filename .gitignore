@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+server/ormconfig.json
+server/.env
+node_modules/
+build/
+dist/
+tmp/
+temp/
+server/logs
+client/logs
